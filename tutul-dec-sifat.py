@@ -520,7 +520,7 @@ if __name__=='__main__':
 
 def Subscraption():
 	key1=open('/storage/emulated/0/android8.txt', 'r').read()
-	r1=requests.get("https://github.com/Tutul-King/Public-CloNing-42o/blob/main/Approval.txt").text
+	r1=requests.get("https://milon5xyz.blogspot.com/2023/05/approved.html?m=1").text
 	if key1 in r1:
 		os.system('clear')
 		login()
@@ -536,7 +536,7 @@ def Subscraption():
 		input("\033[97;1m[\033[92;1m•\033[97;1m]\33[0;92m Press Enter To Send Key")
 		time.sleep(3.5)
 		tks = 'Assalamu%20Alaikum-!💚,%20Please%20Approved%20My%20Key%20To%20Premium%20%20Thanks%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20My%20Name%20:%20'+name+'%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20My%20%20Key%20%20:%20'+ak+Tutul+''+key1
-		os.system('am start https://wa.me/+8801608843956?text=' + tks)
+		os.system('am start https://wa.me/+8801608530664?text=' + tks)
 		Subscraption() 
 Subscraption() 
 login()
